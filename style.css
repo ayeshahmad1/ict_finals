@@ -1,0 +1,36 @@
+.container {
+    position: absolute;
+    border: solid 2px red;
+    display: flex;
+    justify-content: center;
+
+
+
+.header{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    margin-left: 850px;
+    font-size: 12px;
+    justify-content: center;
+    align-items: center;
+}
+
+#barcelona{
+    display: flex;
+    position: absolute;
+   
+}
+
+.italy{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background-color: yellow;
+    border: 2px solid blue;
+}
+
+france{
+    display: inline-flex;
+
+}
